@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom/cjs/react-router-dom.min';
+import { BrowserRouter } from 'react-router-dom';
 // marketing is ModuleFederationPlugin's remote key
 // MarketingApp is exposed from marketing's ModuleFederationPlugin
 import MarketingApp from './components/MarketingApp';
